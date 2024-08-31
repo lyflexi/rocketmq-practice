@@ -1,0 +1,7 @@
+spring:
+    datasource:
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        username: root
+        password: root
+        url: jdbc:mysql://47.103.44.163:3306/test?serverTimezone=GMT%2B8&useSSL=false
+#        test数据库
